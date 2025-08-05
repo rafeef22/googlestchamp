@@ -1,0 +1,6 @@
+{
+  "name": "champ copy",
+  "description": "A luxury sneaker resale platform where users can browse, search, and inquire about exclusive sneakers. Features an admin panel for adding new products with AI-powered description generation.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
